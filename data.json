@@ -9,14 +9,20 @@
       "name": "MrChickenNugget",
       "user-id": "89AA226C8F74BDFD",
       "discord-id": "1380555408271347773"
+
+      "name": "SilverX",
+       "user-id": "CA9588EB78C2D7DD"
+      "discord-id": "1488271025035542630"
     },
     
   ],
   "super-admins": [
     "MrChickenNugget",
+    "SilverX",
   ],
   "beta-users": [
     "89AA226C8F74BDFD",
+    "CA9588EB78C2D7DD",
   ],
   "beta": false,
   "patreon": [],
